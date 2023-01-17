@@ -17,10 +17,10 @@
     <img src="assets/images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">logistic-regression-course</h3>
+<h3 align="center">Logistic Regression Course</h3>
 
   <p align="center">
-    Description for logistic-regression-course
+    Description for Logistic Regression Course
     <br />
     <a href="https://github.com/jpcadena/logistic-regression-course"><strong>Explore the docs »</strong></a>
     <br />
@@ -60,7 +60,7 @@
 
 [![Project][project-screenshot]](https://example.com)
 
-This project is about logistic-regression-course...
+This project is about Logistic Regression...
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
