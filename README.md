@@ -17,7 +17,7 @@
     <img src="assets/images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">logistic-regression-course</h3>
+<h3 align="center">Logistic Regression Course</h3>
 
   <p align="center">
     Description for logistic-regression-course
@@ -56,13 +56,17 @@
 
 
 <!-- ABOUT THE PROJECT -->
-
+## About The Project
 
 [![Project][project-screenshot]](https://example.com)
 
 This project is about...
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+### Built With
 
 * [![Python][Python.org]][Python-url]
 
@@ -71,12 +75,15 @@ This project is about...
 
 
 <!-- GETTING STARTED -->
+## Getting Started
 
-* [Python 3.10+] [Python-url]
+* [Python 3.10+][Python-url]
+
+### Installation
 
 1. Clone the **repository**
     ```
-    git clone [github-user]/logistic-regression-course.git
+    git clone https://github.com/jpcadena/logistic-regression-course.git
     ```
 2. Change the directory to **root project**
     ```
@@ -104,6 +111,7 @@ This project is about...
 
 
 <!-- USAGE EXAMPLES -->
+## Usage
 
 1. If found **sample.env**, rename it with to **.env**.
 2. Replace your **credentials** into the *.env* file.
@@ -117,12 +125,10 @@ This project is about...
 
 
 <!-- CONTRIBUTING -->
-
+## Contributing
 
 If you have a suggestion that would make this better, please fork the repo and
-create a pull request. You can also simply open an issue with the tag "
-enhancement".
-Don't forget to give the project a star! Thanks again!
+create a pull request.
 
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
@@ -134,20 +140,16 @@ Use docstrings with **reStructuredText** format by adding triple double quotes
 **"""** after function definition.\
 Add a brief function description, also for the parameters including the return
 value and its corresponding data type.\
-Please use **linting** to check your code quality
-following [PEP 8](https://peps.python.org/pep-0008/). Check documentation
-for [Visual Studio Code](https://code.visualstudio.com/docs/python/linting#_run-linting)
-or
-for [Jetbrains Pycharm](https://github.com/leinardi/pylint-pycharm/blob/master/README.md).\
-Recommended plugin for
-autocompletion: [Tabnine](https://www.tabnine.com/install)
+Please use **linting** to check your code quality following [PEP 8](https://peps.python.org/pep-0008/).\
+Check documentation for [Visual Studio Code](https://code.visualstudio.com/docs/python/linting#_run-linting) or [Jetbrains Pycharm](https://github.com/leinardi/pylint-pycharm/blob/master/README.md).\
+Recommended plugin for autocompletion: [Tabnine](https://www.tabnine.com/install)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
 <!-- LICENSE -->
-
+## License
 
 Distributed under the MIT License.
 
@@ -156,7 +158,7 @@ Distributed under the MIT License.
 
 
 <!-- CONTACT -->
-
+## Contact
 
 LinkedIn: [Juan Pablo Cadena Aguilar][linkedin-url]
 
@@ -170,10 +172,6 @@ E-mail: [Juan Pablo Cadena Aguilar](mailto:jpcadena@espol.edu.ec?subject=[GitHub
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
 [linkedin-url]: https://linkedin.com/in/juanpablocadenaaguilar
-
-[github-user]: https://github.com/jpcadena
-
-[github-project]: https://github.com/jpcadena/logistic-regression-course
 
 [project-screenshot]: assets/images/project.png
 
