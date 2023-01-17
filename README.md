@@ -17,10 +17,10 @@
     <img src="assets/images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">Logistic Regression Course</h3>
+<h3 align="center">logistic-regression-course</h3>
 
   <p align="center">
-    Description for Logistic Regression Course
+    Description for logistic-regression-course
     <br />
     <a href="https://github.com/jpcadena/logistic-regression-course"><strong>Explore the docs »</strong></a>
     <br />
@@ -56,12 +56,15 @@
 
 
 <!-- ABOUT THE PROJECT -->
+## About the project
 
 [![Project][project-screenshot]](https://example.com)
 
-This project is about Logistic Regression Course...
+This project is about logistic-regression-course...
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### Built with
 
 * [![Python][Python.org]][Python-url]
 
@@ -71,8 +74,11 @@ This project is about Logistic Regression Course...
 
 <!-- GETTING STARTED -->
 
+## Getting started
+
 * [Python 3.10+][Python-url]
 
+### Installation
 
 1. Clone the **repository**
     ```
@@ -105,6 +111,8 @@ This project is about Logistic Regression Course...
 
 <!-- USAGE EXAMPLES -->
 
+### Usage
+
 1. If found **sample.env**, rename it with to **.env**.
 2. Replace your **credentials** into the *.env* file.
 3. Execute with console
@@ -117,6 +125,8 @@ This project is about Logistic Regression Course...
 
 
 <!-- CONTRIBUTING -->
+
+## Contributing
 
 If you have a suggestion that would make this better, please fork the repo and
 create a pull request.
@@ -145,6 +155,8 @@ autocompletion: [Tabnine](https://www.tabnine.com/install)
 
 <!-- LICENSE -->
 
+## License
+
 Distributed under the MIT License.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -152,6 +164,8 @@ Distributed under the MIT License.
 
 
 <!-- CONTACT -->
+
+## Contact
 
 LinkedIn: [Juan Pablo Cadena Aguilar][linkedin-url]
 
