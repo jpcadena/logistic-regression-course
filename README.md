@@ -76,6 +76,8 @@ This project is about Logistic Regression...
 
 ## Getting started
 
+### Prerequisites
+
 * [Python 3.10+][Python-url]
 
 ### Installation
