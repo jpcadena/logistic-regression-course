@@ -10,7 +10,6 @@ from sklearn.metrics import confusion_matrix
 from sklearn.model_selection import train_test_split
 from sklearn.utils import Bunch
 
-# Data extra
 digits: Bunch = load_digits()
 print(digits.data[0])
 image: np.ndarray = np.reshape(digits.data[10], (8, 8))

@@ -56,6 +56,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
+
 ## About the project
 
 [![Project][project-screenshot]](https://example.com)
